@@ -4,3 +4,5 @@ Oranges
 Mangos
 Pizza
 Pasta
+Lion
+Elephant
