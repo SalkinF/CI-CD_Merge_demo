@@ -4,3 +4,6 @@ Oranges
 Mangos
 Lion
 Elephant
+6
+7
+8
